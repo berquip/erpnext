@@ -9866,4 +9866,4 @@ You created this ,由你创建 ,
  Brand Logo,品牌标识,
  Domain Name,域名,
  <p class="help-box small text-muted">For multiple addresses, enter the address on different line. e.g. test@test.com ⏎ test1@test.com</p>,<p class="help-box small text-muted">对于多个地址，请在不同的行上输入地址。 例如 test@test.com ⏎ test1@test.com</p>
- 
+ <label class="control-label reqd" style="padding-right: 0px;">State</label>,<label class="control-label reqd" style="padding-right: 0px;">状态</label>,
